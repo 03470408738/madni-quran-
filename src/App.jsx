@@ -1,12 +1,10 @@
-import React from 'react';
-import Malik from './Large splitbutton.jsx'
-import Large_splitbutton from './Large splitbutton.jsx';
+import React from 'react'
+import Darkdropdowns from './Darkdropdowns.jsx'
 
 function App() {
   return (
     <div>
-        <Large_splitbutton/>
-
+<Darkdropdowns/>
     </div>
   )
 }
