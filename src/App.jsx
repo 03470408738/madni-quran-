@@ -1,10 +1,10 @@
 import React from 'react'
-import Darkdropdowns from './Darkdropdowns.jsx'
+import Smallsplitbutton from './smallsplitbutton.jsx'
 
 function App() {
   return (
     <div>
-<Darkdropdowns/>
+<Smallsplitbutton/>
     </div>
   )
 }
