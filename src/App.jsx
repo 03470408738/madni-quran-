@@ -1,12 +1,16 @@
 import React from 'react'
-import Smallsplitbutton from './smallsplitbutton.jsx'
+import BuildingPoster from './BuildingPoster'
+
+
 
 function App() {
   return (
-    <div>
-<Smallsplitbutton/>
+   <div className="min-h-screen bg-purple-600 flex items-center justify-center">
+     
+      <BuildingPoster />
+      
     </div>
   )
 }
 
-export default App
+export default App 
